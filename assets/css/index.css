@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&family=Lato:wght@300&family=Oswald:wght@300&family=Ysabeau+SC:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@300&family=Ysabeau+SC:wght@300&display=swap');
 
 * {
     margin: 0;
@@ -9,6 +9,8 @@
 body {
     color: #ffd700;
     background-color: #272745;
+    font-family: 'Hind', sans-serif;
+    font-weight: 300;
 }
 
 #href {
@@ -24,16 +26,17 @@ body {
 
 /* Nav Bar */
 .fixed-nav-bar {
-    background-color: rgba(39, 39, 69, 0.5);
+    background-color: rgba(39, 39, 69, .9);
     position: fixed;
     width: 100%;
     height: 40px;
     border-bottom: 2px solid #ffd700;
+    z-index: 3;
 }
 
 #nav-title {
     float: left;
-    font-family: 'Ysabeau SC';
+    font-family: 'Ysabeau SC', sans-serif;
     font-size: 20px;
     letter-spacing: 4px;
     margin-left: 25px;
@@ -43,9 +46,57 @@ body {
 
 #nav-list {
     float: right;
-    font-family: 'Ysabeau SC';
+    font-family: 'Ysabeau SC', sans-serif;
     font-size: 20px;
     list-style: none;
     margin-right: 25px;
     margin-top: 10px;
+}
+
+/* Hero and Hero-Text */
+#hero-outer {
+    height: 950px;
+    width: 100%;
+    overflow: hidden;
+}
+
+#hero {
+    width: 100%;
+    height: 100vh;
+
+    background-image: url('../images/blackrock-castle.jpg');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: relative;
+}
+
+#hero-text h2 {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: #ffd700;
+}
+
+#hero-text h3 {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: #ffd700;
+}
+
+#hero-text {
+    font-family: 'Ysabeau SC', sans-serif;
+    color: #ffd700;
+    text-align: center;
+    letter-spacing: 4px;
+
+    width: 400px;
+    height: 200px;
+
+    padding-top: 100px;
+    border-radius: 50%;
+
+    background-color: rgba(39, 39, 69, .9);
+    bottom: 30px;
+    right: 100px;
+
+    position: absolute;
+    z-index: 1;
 }
