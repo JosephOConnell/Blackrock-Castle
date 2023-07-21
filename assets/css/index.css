@@ -14,7 +14,6 @@ body {
 #href {
     text-decoration: none;
     color: #ffd700;
-    font-size: 20px;
 }
 
 #href:hover {
@@ -28,21 +27,25 @@ body {
     background-color: rgba(39, 39, 69, 0.5);
     position: fixed;
     width: 100%;
-    height: 50px;
-    font-family: 'Ysabeau SC', sans-serif;
+    height: 40px;
+    border-bottom: 2px solid #ffd700;
 }
 
 #nav-title {
     float: left;
+    font-family: 'Ysabeau SC';
+    font-size: 20px;
     letter-spacing: 4px;
-    margin-left: 30px;
-    margin-top: 15px;
+    margin-left: 25px;
+    margin-top: 10px;
     list-style: none;
 }
 
 #nav-list {
     float: right;
+    font-family: 'Ysabeau SC';
+    font-size: 20px;
     list-style: none;
-    margin-right: 30px;
-    margin-top: 15px;
+    margin-right: 25px;
+    margin-top: 10px;
 }
