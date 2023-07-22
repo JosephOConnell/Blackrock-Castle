@@ -309,3 +309,27 @@ button:hover {
 .contact-allignment {
     margin-top: 30%;
 }
+
+
+/* Gallery */
+.gallery-allignment {
+    width: 100%;
+    height: 3200px;
+    overflow: hidden;
+}
+
+.gallery-allignment img {
+    width: 100%;
+}
+
+#images {
+    column-count: 2;
+    row-gap: 0;
+    column-gap: 0;
+}
+
+.gallery-allignment h1 {
+    height: 50px;
+    padding-top: 3%;
+    text-align: center;
+}
