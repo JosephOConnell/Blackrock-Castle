@@ -9,13 +9,23 @@
 body {
     color: #ffd700;
     background-color: #272745;
-    font-family: 'Hind', sans-serif;
     font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-family: 'Ysabeau SC', sans-serif;
+}
+
+p {
+    font-family: 'Hind', sans-serif;
+    font-size: 20px;
 }
 
 #href {
     text-decoration: none;
-    color: #ffd700;
 }
 
 #href:hover {
@@ -26,12 +36,16 @@ body {
 
 /* Nav Bar */
 .fixed-nav-bar {
-    background-color: rgba(39, 39, 69, .9);
+    background-color: rgba(39, 39, 69, 0.902);
     position: fixed;
     width: 100%;
     height: 40px;
     border-bottom: 2px solid #ffd700;
     z-index: 3;
+}
+
+.fixed-nav-bar a {
+    color: #ffd700;
 }
 
 #nav-title {
@@ -55,7 +69,7 @@ body {
 
 /* Hero and Hero-Text */
 #hero-outer {
-    height: 950px;
+    height: 720px;
     width: 100%;
     overflow: hidden;
 }
@@ -69,16 +83,6 @@ body {
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: relative;
-}
-
-#hero-text h2 {
-    font-family: 'Ysabeau SC', sans-serif;
-    color: #ffd700;
-}
-
-#hero-text h3 {
-    font-family: 'Ysabeau SC', sans-serif;
-    color: #ffd700;
 }
 
 #hero-text {
@@ -100,3 +104,115 @@ body {
     position: absolute;
     z-index: 1;
 }
+
+/* A brief history */
+.brief-history {
+    background-color: #fafafa;
+    color: #272745;
+    height: 1180px;
+    width: 100%;
+}
+
+#brief-history-alignment {
+    margin-left: 10px;
+    width: 800px;
+    float: left;
+    text-align: center;
+}
+
+.brief-history img {
+    width: 700px;
+    margin-top: 70px;
+}
+
+/* BC Observatory */
+.observatory {
+    width: 100%;
+    height: 550px;
+}
+
+#observatory-alignment {
+    margin-right: 20px;
+    width: 750px;
+    float: right;
+    text-align: center;
+}
+
+.observatory a {
+    color: #ffd700;
+    border-bottom: 2px solid #ffd700;
+}
+
+.observatory iframe {
+    width: 700px;
+    height: 400px;
+    margin-top: 75px;
+    margin-left: 20px;
+}
+
+
+/* BC castle-cafe */
+.castle-cafe {
+    background-color: #fafafa;
+    width: 100%;
+    height: 400px;
+}
+
+#castle-cafe-allignment {
+    color: #272745;
+    margin-left: 20px;
+    width: 500px;
+    float: left;
+    text-align: center;
+}
+
+.castle-cafe a {
+    color: #272745;
+    border-bottom: 2px solid #272745;
+}
+
+.castle-cafe img {
+    float: right;
+    width: 950px;
+    height: 400px;
+    margin-left: 20px;
+}
+
+/* BC Location */
+.location {
+    width: 100%;
+    height: 600px;
+}
+
+.location h1 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.location img {
+    width: 730px;
+    height: 500px;
+    margin-top: 15px;
+    margin-left: 20px;
+    float: left;
+}
+
+.location iframe {
+    width: 730px;
+    height: 500px;
+    margin-top: 15px;
+    margin-right: 20px;
+    float: right;
+}
+
+/* Trip Advisor Reviews */
+.reviews {
+    background-color: #fafafa;
+}
+
+.reviews h1 {
+    color: #272745;
+    text-align: center;
+}
+
+/* Contact Form */
