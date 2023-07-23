@@ -97,7 +97,7 @@ p {
     padding-top: 100px;
     border-radius: 50%;
 
-    background-color: rgba(39, 39, 69, .9);
+    background-color: rgba(39, 39, 69, .7);
     bottom: 30px;
     right: 100px;
 
@@ -162,6 +162,7 @@ p {
 #castle-cafe-allignment {
     color: #272745;
     margin-left: 20px;
+    margin-top: 50px;
     width: 500px;
     float: left;
     text-align: center;
@@ -221,7 +222,7 @@ p {
 /* Contact Form */
 .contact-form {
     width: 40%;
-    height: 520px;
+    height: 540px;
     float: left;
     margin-left: 10%;
 }
@@ -333,3 +334,320 @@ button:hover {
     padding-top: 3%;
     text-align: center;
 }
+
+
+/* media queries */
+/* For larger screen sizes */
+@media screen and (width: 1920px) {
+
+    /*Hero-Text */
+    #hero-text {
+        font-family: 'Ysabeau SC', sans-serif;
+        color: #ffd700;
+        text-align: center;
+        letter-spacing: 4px;
+
+        padding-top: 100px;
+        border-radius: 50%;
+
+        background-color: rgba(39, 39, 69, .7);
+        bottom: 300px;
+        right: 100px;
+
+        position: absolute;
+        z-index: 1;
+    }
+
+    /* A brief history */
+    .brief-history {
+        background-color: #fafafa;
+        color: #272745;
+        height: 1080px;
+        width: 100%;
+        padding-top: 40px;
+    }
+
+    #brief-history-alignment {
+        margin-left: 70px;
+        width: 950px;
+        float: left;
+        text-align: center;
+    }
+
+    .brief-history img {
+        width: 700px;
+        margin-top: 40px;
+        margin-right: 70px;
+        float: right;
+    }
+
+    /* BC Observatory */
+    #observatory-alignment {
+        margin-right: 70px;
+        width: 750px;
+        float: right;
+        text-align: center;
+    }
+
+    .observatory iframe {
+        width: 900px;
+        height: 500px;
+        margin-top: 25px;
+        margin-left: 70px;
+    }
+
+    /* BC castle-cafe */
+    .castle-cafe {
+        background-color: #fafafa;
+        width: 100%;
+        height: 400px;
+    }
+
+    #castle-cafe-allignment {
+        color: #272745;
+        margin-top: 50px;
+        margin-left: 70px;
+        width: 500px;
+        float: left;
+        text-align: center;
+    }
+
+    .castle-cafe img {
+        float: right;
+        width: 1150px;
+        height: 400px;
+        margin-left: 20px;
+    }
+
+    /* BC Location */
+
+    .location img {
+        width: 900px;
+        margin-left: 50px;
+    }
+
+    .location iframe {
+        width: 900px;
+        margin-right: 50px;
+    }
+
+    /* Gallery */
+    .gallery-allignment {
+        height: 1300px;
+        border-bottom: 2px solid #ffd700;
+    }
+
+    #images {
+        column-count: 4;
+    }
+}
+
+/* For medium screens size from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+    /* Nav Bar */
+    .fixed-nav-bar {
+        background-color: rgba(39, 39, 69, 0.902);
+        position: fixed;
+        width: 100%;
+        height: 40px;
+        border-bottom: 2px solid #ffd700;
+        z-index: 3;
+    }
+
+    #nav-title {
+        letter-spacing: 2px;
+        margin-left: 5px;
+    }
+
+    #nav-list {
+        font-size: 20px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+
+    /* Hero and Hero-Text */
+    #hero-outer {
+        width: 100%;
+        height: 610px;
+    }
+
+    #hero {
+        width: 100%;
+        margin-bottom: 0px;
+    }
+
+    #hero-text {
+        letter-spacing: 2px;
+
+        width: 400px;
+        height: 100px;
+
+        padding-top: 5px;
+        padding-bottom: 5px;
+        border-radius: 30px;
+
+        bottom: 90px;
+    }
+
+    /* A brief history */
+    .brief-history {
+        height: 1550px;
+    }
+
+    #brief-history-alignment {
+        width: 80%;
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .brief-history img {
+        width: 40%;
+        height: 300px;
+        margin-top: 0px;
+        margin-left: 5%;
+        float: none;
+    }
+
+    /* BC Observatory */
+    .observatory {
+        width: 100%;
+        height: 900px;
+    }
+
+    #observatory-alignment {
+        width: 80%;
+        padding-left: 10%;
+        padding-right: 10%;
+        float: none;
+        text-align: center;
+    }
+
+    .observatory iframe {
+        width: 80%;
+        height: 400px;
+        padding-left: 10%;
+        padding-right: 10%;
+        margin-top: 5px;
+    }
+
+
+    /* BC castle-cafe */
+    .castle-cafe {
+        background-color: #fafafa;
+        width: 100%;
+        height: 640px;
+    }
+
+    #castle-cafe-allignment {
+        margin-left: 0px;
+        padding-top: 10px;
+        width: 80%;
+        padding-left: 10%;
+        padding-right: 10%;
+        float: none;
+        text-align: center;
+    }
+
+    .castle-cafe img {
+        float: none;
+        width: 100%;
+        height: 400px;
+        margin-left: 0%;
+        margin-top: 2%;
+    }
+
+    /* BC Location */
+    .location {
+        width: 100%;
+        height: 1110px;
+        padding-top: 0px;
+    }
+
+    .location h1 {
+        text-align: center;
+        margin-top: 30px;
+    }
+
+    .location img {
+        width: 100%;
+        height: 500px;
+        margin-left: 0px;
+        float: none;
+    }
+
+    .location iframe {
+        width: 100%;
+        height: 500px;
+        margin-right: 0px;
+        float: none;
+    }
+
+    /* Trip Advisor Reviews */
+    .reviews {
+        width: 100%;
+        background-color: #fafafa;
+        padding-top: 40px;
+    }
+
+    .reviews h1 {
+        color: #272745;
+        text-align: center;
+    }
+
+    /* Contact Form */
+    .contact-form {
+        width: 80%;
+        height: 540px;
+        float: none;
+        text-align: center;
+    }
+
+
+    /* contacts */
+    .contacts {
+        width: 80%;
+        height: 520px;
+        float: none;
+        text-align: center;
+    }
+
+    .contacts-li {
+        list-style: none;
+        display: inline;
+        font-size: 100px;
+        padding: 5%;
+    }
+
+    .contact-allignment {
+        margin-top: 5%;
+        text-align: center;
+    }
+
+
+    /* Gallery */
+    .gallery-allignment {
+        width: 100%;
+        height: 3200px;
+        overflow: hidden;
+    }
+
+    .gallery-allignment img {
+        width: 100%;
+    }
+
+    #images {
+        column-count: 2;
+        row-gap: 0;
+        column-gap: 0;
+    }
+
+    .gallery-allignment h1 {
+        height: 50px;
+        padding-top: 3%;
+        text-align: center;
+    }
+}
+
+
+@media screen and (max-width: 800px) {}
