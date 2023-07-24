@@ -9,7 +9,7 @@
 body {
     color: #ffd700;
     background-color: #272745;
-    font-weight: 300;
+    font-weight: 300px;
 }
 
 h1,
@@ -91,15 +91,13 @@ p {
     text-align: center;
     letter-spacing: 4px;
 
-    width: 25%;
-    height: 200px;
-
-    padding-top: 7%;
-    border-radius: 50%;
+    width: 380px;
+    height: 100px;
+    border-radius: 20px;
 
     background-color: rgba(39, 39, 69, .7);
-    top: 30%;
-    right: 5%;
+    top: 15%;
+    right: 1%;
 
     position: absolute;
     z-index: 1;
@@ -109,7 +107,7 @@ p {
 .brief-history {
     background-color: #fafafa;
     color: #272745;
-    height: 1300px;
+    height: 1100px;
     width: 100%;
     padding-top: 50px;
 }
@@ -124,10 +122,9 @@ p {
 
 .brief-history img {
     width: 40%;
-    padding-top: 8%;
-    padding-bottom: 8%;
+    padding-bottom: 1%;
     float: right;
-    padding-right: 5%;
+    padding-right: 2%;
 }
 
 /* BC Observatory */
@@ -334,26 +331,3 @@ button:hover {
     padding-top: 3%;
     text-align: center;
 }
-
-
-/* media queries */
-
-/* For large screen sizes */
-@media screen and (max-width: 1367px) {
-
-    /* A brief history */
-    .brief-history {
-        height: 1400px;
-    }
-
-    /* BC Observatory */
-    .observatory {
-        height: 750px;
-    }
-
-    .observatory iframe {
-        height: 750px;
-    }
-}
-
-@media screen and (max-width: 1024px) {}
