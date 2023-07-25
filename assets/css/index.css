@@ -677,7 +677,7 @@ button:hover {
 
     #nav-list {
         font-size: 15px;
-        padding-right: 8px;
+        padding-right: 10px;
     }
 
     .brief-history {
@@ -690,6 +690,11 @@ button:hover {
 }
 
 @media screen and (max-width: 426px) {
+    #nav-list {
+        font-size: 11px;
+        padding-right: 10px;
+    }
+
     #hero {
         background-image: url('../images/bcgates.jpg');
     }
@@ -755,10 +760,6 @@ button:hover {
 }
 
 @media screen and (max-width: 341px) {
-    #nav-list {
-        font-size: 11px;
-        padding-right: 5px;
-    }
 
     .brief-history {
         height: 2920px;
