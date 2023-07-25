@@ -445,6 +445,18 @@ button:hover {
     .brief-history {
         height: 860px;
     }
+
+    #castle-cafe-allignment {
+        padding-top: 30px;
+    }
+
+    .castle-cafe {
+        height: 430px;
+    }
+
+    .castle-cafe img {
+        height: 430px;
+    }
 }
 
 @media screen and (max-width: 1057px) {
@@ -490,7 +502,7 @@ button:hover {
     }
 
     .castle-cafe {
-        height: 580px;
+        height: 630px;
     }
 
     #castle-cafe-allignment {
@@ -537,10 +549,6 @@ button:hover {
     .observatory {
         height: 965px;
     }
-
-    .castle-cafe {
-        height: 620px;
-    }
 }
 
 @media screen and (max-width: 785px) {
@@ -553,7 +561,7 @@ button:hover {
     }
 
     .castle-cafe {
-        height: 630px;
+        height: 650px;
     }
 
     .gallery-allignment {
@@ -585,7 +593,7 @@ button:hover {
     }
 
     .castle-cafe {
-        height: 545px;
+        height: 600px;
     }
 
     .castle-cafe img {
@@ -649,7 +657,7 @@ button:hover {
     }
 
     .castle-cafe {
-        height: 610px;
+        height: 660px;
     }
 }
 
@@ -687,11 +695,15 @@ button:hover {
     .observatory {
         height: 1410px;
     }
+
+    .castle-cafe {
+        height: 660px;
+    }
 }
 
 @media screen and (max-width: 426px) {
     #nav-list {
-        font-size: 11px;
+        font-size: 15px;
         padding-right: 10px;
     }
 
@@ -738,6 +750,10 @@ button:hover {
     .observatory {
         height: 1530px;
     }
+
+    .castle-cafe {
+        height: 680px;
+    }
 }
 
 @media screen and (max-width: 376px) {
@@ -760,6 +776,10 @@ button:hover {
 }
 
 @media screen and (max-width: 341px) {
+    #nav-list {
+        font-size: 8px;
+        padding-right: 5px;
+    }
 
     .brief-history {
         height: 2920px;
