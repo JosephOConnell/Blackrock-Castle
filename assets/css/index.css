@@ -690,6 +690,9 @@ button:hover {
 }
 
 @media screen and (max-width: 426px) {
+    #hero {
+        background-image: url('../images/bcgates.jpg');
+    }
 
     .brief-history {
         height: 2300px;
