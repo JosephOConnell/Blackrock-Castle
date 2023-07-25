@@ -615,14 +615,18 @@ button:hover {
     }
 
     .brief-history {
-        height: 2020px;
+        height: 2920px;
     }
 
     .observatory {
-        height: 1420px;
+        height: 1780px;
     }
 
     .castle-cafe {
-        height: 670px;
+        height: 700px;
+    }
+
+    .castle-cafe img {
+        height: 200px;
     }
 }
