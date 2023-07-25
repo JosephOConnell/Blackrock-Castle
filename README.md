@@ -16,9 +16,10 @@ In this section, you should go over the different parts of your project, and des
   - Featured on both pages, the full responsive navigation bar includes links to Home, Location, Reviews, Contact and Gallery and is identical in each page to allow for easy navigation.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
 
-- **The landing page image**
+- **The hero page**
 
-  - The landing includes a photograph with text overlay.
+  - The Hero includes a photograph with text overlay.
+  - I took the idea for the overlay from the love running project as it adds that little bit extra.
 
 - **A Brief History**
 
@@ -51,32 +52,28 @@ In this section, you should go over the different parts of your project, and des
 - **Gallery**
   - The gallery will provide the user with supporting images to see what the the castle look like foom many different angles.
 
-### Features Left to Implement
+### Features I would like to Implement
 
 - Flexbox: I spent most of my time trying to get the responsiveness of my page right. I think with a bit more knowledge of flexbox this could have been easier.
-- Hamburger Menu: Again using Overflow and Float made keeping the Nav Bar clean a problem. a hamburger menu would have gotten rid of this for smaller screens.
+- Hamburger Menu: Again using Overflow and Float made keeping the Nav Bar clean a problem. A hamburger menu would have gotten rid of this for smaller screens.
 
-## Testing
+## Testing NOT DONE YET
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+I have many repeated ID's. This will need to be fixed befor submisiion.
+I need to remove a value of (relative) on line 82
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
-### Validator Testing
+### Validator Testing Working on fixing the issues
 
 - HTML
-  - I had the same errors returned when passing through the official W3C validator. There were all for Duplicate ID's [W3C validator]()
+  - 26 errors returned when passing through the official W3C validator. There were all for Duplicate ID's [W3C validator]()
 - CSS
   - One error was found when passing through the official W3C validator for CSS. There is one backgrund with a value of relative. [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
 
-I have many repeated ID's. This will need to be fixed befor submisiion.
-I need to remove a value of relative on line 82.
+As of yet I have not found any bugs.
 
 ## Deployment
 
