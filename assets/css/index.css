@@ -9,7 +9,6 @@
 body {
     color: #ffd700;
     background-color: #272745;
-    font-weight: 300px;
 }
 
 h1,
@@ -82,7 +81,7 @@ p {
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
-    background-attachment: relative;
+    background: relative;
 }
 
 #hero-text {
