@@ -134,9 +134,7 @@ p {
 }
 
 #observatory-alignment {
-    padding-right: 2%;
-    width: 40%;
-    float: right;
+    width: 100%;
     text-align: center;
     padding-top: 2%;
     padding-bottom: 2%;
@@ -148,8 +146,8 @@ p {
 }
 
 .observatory iframe {
-    width: 55%;
-    height: 720px;
+    width: 100%;
+    height: 600px;
 }
 
 
@@ -351,6 +349,16 @@ button:hover {
         column-count: 3;
     }
 
+    .observatory {
+        width: 100%;
+        height: 900px;
+    }
+
+    .observatory iframe {
+        width: 50%;
+        height: 500px;
+        padding-left: 25%;
+    }
 }
 
 @media screen and (max-width: 1657px) {
@@ -361,7 +369,7 @@ button:hover {
 
 @media screen and (max-width: 1557px) {
     .brief-history {
-        height: 1200px;
+        height: 1250px;
     }
 }
 
@@ -386,7 +394,7 @@ button:hover {
 
 @media screen and (max-width: 1357px) {
     .brief-history {
-        height: 700px;
+        height: 740px;
         width: 100%;
         padding-top: 25px;
     }
@@ -407,18 +415,13 @@ button:hover {
     }
 
     .observatory {
-        height: 750px;
+        height: 900px;
     }
 }
 
 @media screen and (max-width: 1257px) {
     .brief-history {
-        height: 750px;
-    }
-
-    .observatory {
-        width: 100%;
-        height: 835px;
+        height: 795px;
     }
 
     #observatory-alignment {
@@ -441,7 +444,7 @@ button:hover {
 
 @media screen and (max-width: 1157px) {
     .brief-history {
-        height: 820px;
+        height: 860px;
     }
 }
 
@@ -461,7 +464,7 @@ button:hover {
     }
 
     .brief-history {
-        height: 930px;
+        height: 965px;
     }
 
     .observatory {
@@ -480,11 +483,11 @@ button:hover {
 
 @media screen and (max-width: 957px) {
     .brief-history {
-        height: 990px;
+        height: 1110px;
     }
 
     .observatory {
-        height: 915px;
+        height: 925px;
     }
 
     .castle-cafe {
@@ -529,11 +532,11 @@ button:hover {
     }
 
     .brief-history {
-        height: 1090px;
+        height: 1160px;
     }
 
     .observatory {
-        height: 945px;
+        height: 965px;
     }
 
     .castle-cafe {
@@ -541,13 +544,13 @@ button:hover {
     }
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (max-width: 785px) {
     .brief-history {
-        height: 1230px;
+        height: 1275px;
     }
 
     .observatory {
-        height: 1000px;
+        height: 1050px;
     }
 
     .castle-cafe {
@@ -563,9 +566,19 @@ button:hover {
     }
 }
 
+@media screen and (max-width: 708px) {
+    .brief-history {
+        height: 1375px;
+    }
+
+    .observatory {
+        height: 1060px;
+    }
+}
+
 @media screen and (max-width: 657px) {
     .brief-history {
-        height: 1400px;
+        height: 1500px;
     }
 
     .observatory {
@@ -603,9 +616,19 @@ button:hover {
     .contact-allignment {
         margin-top: 1%;
     }
+
+    .gallery-allignment h1 {
+        padding-top: 10%;
+    }
 }
 
-@media screen and (max-width: 557px) {
+@media screen and (max-width: 607px) {
+    .brief-history {
+        height: 1565px;
+    }
+}
+
+@media screen and (max-width: 590px) {
 
     #hero-text {
         padding-top: 10px;
@@ -631,14 +654,46 @@ button:hover {
     }
 }
 
-@media screen and (max-width: 426px) {
+@media screen and (max-width: 540px) {
+    .brief-history {
+        height: 1790px;
+    }
+
+    .observatory {
+        height: 1200px;
+    }
+}
+
+@media screen and (max-width: 515px) {
+    .brief-history {
+        height: 1925px;
+    }
+
+    .observatory {
+        height: 1280px;
+    }
+}
+
+@media screen and (max-width: 478px) {
+
     #nav-list {
-        font-size: 15px;
-        padding-right: 10px;
+        font-size: 20px;
+        padding-right: 8px;
     }
 
     .brief-history {
-        height: 2180px;
+        height: 2150px;
+    }
+
+    .observatory {
+        height: 1410px;
+    }
+}
+
+@media screen and (max-width: 426px) {
+
+    .brief-history {
+        height: 2300px;
     }
 
     .observatory {
@@ -658,26 +713,37 @@ button:hover {
         height: 3570px;
     }
 
-    .gallery-allignment h1 {
-        padding-top: 12%;
-    }
-
     #images {
         column-count: 1;
+    }
+
+    .observatory {
+        height: 1480px;
+    }
+}
+
+@media screen and (max-width: 399px) {
+
+    .brief-history {
+        height: 2488px;
+    }
+
+    .observatory {
+        height: 1530px;
     }
 }
 
 @media screen and (max-width: 376px) {
     .brief-history {
-        height: 2540px;
+        height: 2780px;
     }
 
     .observatory {
-        height: 1540px;
+        height: 1620px;
     }
 
     .castle-cafe {
-        height: 680px;
+        height: 690px;
     }
 
     .gallery-allignment {
@@ -686,7 +752,12 @@ button:hover {
     }
 }
 
-@media screen and (max-width: 321px) {
+@media screen and (max-width: 341px) {
+    #nav-list {
+        font-size: 15px;
+        list-style: none;
+        padding-right: 5px;
+    }
 
     .brief-history {
         height: 2920px;
@@ -707,5 +778,9 @@ button:hover {
     .gallery-allignment {
 
         height: 2715px;
+    }
+
+    .gallery-allignment h1 {
+        padding-top: 12%;
     }
 }
