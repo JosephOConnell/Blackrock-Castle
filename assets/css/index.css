@@ -327,7 +327,7 @@ button:hover {
 
 .gallery-allignment h1 {
     height: 50px;
-    padding-top: 3%;
+    padding-top: 5%;
     text-align: center;
 }
 
@@ -555,8 +555,11 @@ button:hover {
     }
 
     .gallery-allignment {
-
         height: 1650px;
+    }
+
+    .gallery-allignment h1 {
+        padding-top: 6%;
     }
 }
 
@@ -653,6 +656,10 @@ button:hover {
     .gallery-allignment {
 
         height: 3570px;
+    }
+
+    .gallery-allignment h1 {
+        padding-top: 12%;
     }
 
     #images {
