@@ -59,15 +59,19 @@ In this section, you should go over the different parts of your project, and des
 
 ## Testing NOT DONE YET
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- I had a big problem withe the media queries. I had most of the pages widths done in PX instead of %. When I corrected that I restarted the media queries. I got most sizes done well but I could easily put another day into getting every size perfect.
+- Made a silly mistake and forgot to link the index.css to the gallery.
+- Forgot to add font size to nav-title
+- Left a space in the mailto which through an error in W3 Validation.
+- I have Duplicate ID's for nav-list and href.
+- I need to remove a value of (relative) on line 82.
 
-I have many repeated ID's. This will need to be fixed befor submisiion.
-I need to remove a value of (relative) on line 82
+In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
 ### Validator Testing Working on fixing the issues
 
 - HTML
-  - 26 errors returned when passing through the official W3C validator. There were all for Duplicate ID's [W3C validator]()
+  - 25 errors returned when passing through the official W3C validator. There were all for Duplicate ID's [W3C validator]()
 - CSS
   - One error was found when passing through the official W3C validator for CSS. There is one backgrund with a value of relative. [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 

@@ -23,13 +23,13 @@ p {
     font-size: 20px;
 }
 
-#href {
+a {
     text-decoration: none;
 }
 
-#href:hover {
-    color: #272745;
-    background-color: #ffd700;
+a:hover {
+    color: #ffd700;
+    background-color: #272745;
 }
 
 
@@ -56,7 +56,7 @@ p {
     list-style: none;
 }
 
-#nav-list {
+#nav-list li {
     float: right;
     font-family: 'Ysabeau SC', sans-serif;
     font-size: 20px;
@@ -64,6 +64,7 @@ p {
     padding-right: 25px;
     padding-top: 10px;
 }
+
 
 #hero-outer {
     height: 720px;
