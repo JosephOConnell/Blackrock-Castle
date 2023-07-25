@@ -332,6 +332,26 @@ button:hover {
 }
 
 /* media queries */
+@media screen and (max-width: 2561px) {
+    .brief-history {
+        height: 900px;
+    }
+
+    .brief-history img {
+        height: 400px;
+        padding-right: 5%;
+    }
+
+    .gallery-allignment {
+
+        height: 2630px;
+    }
+
+    #images {
+        column-count: 3;
+    }
+
+}
 
 @media screen and (max-width: 1657px) {
     .brief-history {
@@ -352,6 +372,15 @@ button:hover {
 
     .brief-history img {
         padding-top: 10%;
+    }
+
+    .gallery-allignment {
+
+        height: 3070px;
+    }
+
+    #images {
+        column-count: 2;
     }
 }
 
@@ -442,6 +471,11 @@ button:hover {
     #castle-cafe-allignment {
         padding-top: 10px;
     }
+
+    .gallery-allignment {
+
+        height: 2180px;
+    }
 }
 
 @media screen and (max-width: 957px) {
@@ -519,6 +553,11 @@ button:hover {
     .castle-cafe {
         height: 630px;
     }
+
+    .gallery-allignment {
+
+        height: 1650px;
+    }
 }
 
 @media screen and (max-width: 657px) {
@@ -589,30 +628,58 @@ button:hover {
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 426px) {
     #nav-list {
         font-size: 15px;
         padding-right: 10px;
     }
 
     .brief-history {
-        height: 2020px;
+        height: 2180px;
     }
 
     .observatory {
-        height: 1420px;
+        height: 1410px;
     }
 
     .castle-cafe {
-        height: 670px;
+        height: 640px;
+    }
+
+    .castle-cafe img {
+        height: 250px;
+    }
+
+    .gallery-allignment {
+
+        height: 3570px;
+    }
+
+    #images {
+        column-count: 1;
     }
 }
 
-@media screen and (max-width: 320px) {
-    #nav-list {
-        font-size: 15px;
-        padding-right: 10px;
+@media screen and (max-width: 376px) {
+    .brief-history {
+        height: 2540px;
     }
+
+    .observatory {
+        height: 1540px;
+    }
+
+    .castle-cafe {
+        height: 680px;
+    }
+
+    .gallery-allignment {
+
+        height: 3180px;
+    }
+}
+
+@media screen and (max-width: 321px) {
 
     .brief-history {
         height: 2920px;
@@ -628,5 +695,10 @@ button:hover {
 
     .castle-cafe img {
         height: 200px;
+    }
+
+    .gallery-allignment {
+
+        height: 2715px;
     }
 }
