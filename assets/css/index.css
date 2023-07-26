@@ -27,12 +27,6 @@ a {
     text-decoration: none;
 }
 
-a:hover {
-    color: #ffd700;
-    background-color: #272745;
-}
-
-
 .fixed-nav-bar {
     background-color: rgba(39, 39, 69, 0.902);
     position: fixed;
@@ -63,6 +57,11 @@ a:hover {
     list-style: none;
     padding-right: 25px;
     padding-top: 10px;
+}
+
+#nav-list a:hover {
+    color: #272745;
+    background-color: #ffd700;
 }
 
 
@@ -117,6 +116,7 @@ a:hover {
 .observatory {
     width: 100%;
     height: 720px;
+    overflow: scroll;
 }
 
 #observatory-alignment {
@@ -129,6 +129,11 @@ a:hover {
 .observatory a {
     color: #ffd700;
     border-bottom: 2px solid #ffd700;
+}
+
+.observatory a:hover {
+    color: #272745;
+    background-color: #ffd700;
 }
 
 .observatory iframe {
@@ -154,6 +159,11 @@ a:hover {
 .castle-cafe a {
     color: #272745;
     border-bottom: 2px solid #272745;
+}
+
+.castle-cafe a:hover {
+    color: #272745;
+    background-color: #ffd700;
 }
 
 .castle-cafe img {
