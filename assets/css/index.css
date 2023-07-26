@@ -314,7 +314,7 @@ button:hover {
     }
 
     .gallery-allignment {
-        height: 2630px;
+        height: 2770px;
     }
 
     #images {
@@ -337,8 +337,12 @@ button:hover {
     .brief-history {
         height: 650px;
     }
-}
 
+    .gallery-allignment {
+
+        height: 1600px;
+    }
+}
 
 @media screen and (max-width: 1457px) {
     .brief-history {
@@ -347,7 +351,7 @@ button:hover {
 
     .gallery-allignment {
 
-        height: 3070px;
+        height: 3100px;
     }
 
     #images {
@@ -362,6 +366,11 @@ button:hover {
 
     .observatory {
         height: 900px;
+    }
+
+    .gallery-allignment {
+
+        height: 2800px;
     }
 }
 
@@ -386,6 +395,11 @@ button:hover {
         padding-left: 0;
         padding-top: 1%;
     }
+
+    .gallery-allignment {
+
+        height: 2500px;
+    }
 }
 
 @media screen and (max-width: 1157px) {
@@ -403,6 +417,11 @@ button:hover {
 
     .castle-cafe img {
         height: 430px;
+    }
+
+    .gallery-allignment {
+
+        height: 2400px;
     }
 }
 
@@ -435,8 +454,9 @@ button:hover {
 
     .gallery-allignment {
 
-        height: 2180px;
+        height: 2250px;
     }
+
 }
 
 @media screen and (max-width: 957px) {
@@ -482,6 +502,11 @@ button:hover {
         height: 500px;
         float: none;
     }
+
+    .gallery-allignment {
+
+        height: 1900px;
+    }
 }
 
 @media screen and (max-width: 857px) {
@@ -495,6 +520,11 @@ button:hover {
 
     .observatory {
         height: 965px;
+    }
+
+    .gallery-allignment {
+
+        height: 1800px;
     }
 }
 
@@ -512,7 +542,7 @@ button:hover {
     }
 
     .gallery-allignment {
-        height: 1650px;
+        height: 1700px;
     }
 
     .gallery-allignment h1 {
@@ -676,7 +706,7 @@ button:hover {
 
     .gallery-allignment {
 
-        height: 3570px;
+        height: 3650px;
     }
 
     #images {
@@ -718,7 +748,7 @@ button:hover {
 
     .gallery-allignment {
 
-        height: 3180px;
+        height: 3210px;
     }
 }
 
@@ -746,7 +776,7 @@ button:hover {
 
     .gallery-allignment {
 
-        height: 2715px;
+        height: 2815px;
     }
 
     .gallery-allignment h1 {
