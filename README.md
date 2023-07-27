@@ -8,7 +8,7 @@ I have gathered information and put together a brief history of the castle and w
 
 ### Features
 
-![assets/readmeImages](<Screenshot(31).png>)
+<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(31).png>
 
 - **Fixed Navigation Bar**
 
