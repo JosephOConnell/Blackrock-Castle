@@ -54,6 +54,7 @@ I have gathered information and put together a brief history of the castle and w
 
   - The contacts section includes a Contact Form and links to the my email and LinkedIn profile.
   - I used formspree as the backend for this.
+
     ![Contacts](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(36).png>)
 
 - **Gallery**
@@ -66,7 +67,8 @@ I have gathered information and put together a brief history of the castle and w
 
 ## Testing
 
-    ![Am I Responsive](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(37).png>)
+![Am I Responsive](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(37)>.png>)
+![Am I Responsive](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(37).png>)
 
 - I had a big problem withe the media queries. I had most of the pages widths done in PX instead of %. When I corrected that I restarted the media queries. I got most sizes done well but I could easily put another day into getting every size perfect.
 - Made a silly mistake and forgot to link the index.css to the gallery.
