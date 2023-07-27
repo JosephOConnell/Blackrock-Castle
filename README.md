@@ -67,9 +67,6 @@ I have gathered information and put together a brief history of the castle and w
 
 ## Testing
 
-![Am I Responsive](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(37)>.png>)
-![Am I Responsive](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(37).png>)
-
 - I had a big problem withe the media queries. I had most of the pages widths done in PX instead of %. When I corrected that I restarted the media queries. I got most sizes done well but I could easily put another day into getting every size perfect.
 - Made a silly mistake and forgot to link the index.css to the gallery.
 - Forgot to add font size to nav-title
@@ -78,8 +75,7 @@ I have gathered information and put together a brief history of the castle and w
 - I need to remove a value of (relative) on line 82.
 
 - Tested the responsiveness of my site on [Am I Responsive?] (<https://ui.dev/amiresponsive?url=https://josephoconnell.github.io/Blackrock-Castle/>)
--
--
+  ![Am I Responsive](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(37).png>)
 
 ### Validator Testing Working on fixing the issues
 
