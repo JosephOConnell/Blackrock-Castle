@@ -4,7 +4,7 @@ In this section, you will include one or two paragraphs providing an overview of
 
 This page is based on my local Castle in Co. Cork Ireland.
 I have gathered information and put together a brief history of the castle and what it is being used for now.
-![Screenshot](<https://raw.githubusercontent.com/josephoconnell/repo/master/assets/Screenshot(30).png>)
+![Screenshot](<img src= "assets/Screenshot(30).png">)
 
 ### Features
 
