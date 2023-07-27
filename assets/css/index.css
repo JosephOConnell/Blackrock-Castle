@@ -390,7 +390,6 @@ button:hover {
     #nav-list li {
         font-size: 15px;
         padding-right: 15px;
-        padding-top: 10px;
     }
 
     #hero {
@@ -440,5 +439,11 @@ button:hover {
 
     .contact-allignment {
         margin-top: 1%;
+    }
+}
+
+@media screen and (max-width: 400px) {
+    #nav-list li {
+        padding-right: 10px;
     }
 }
