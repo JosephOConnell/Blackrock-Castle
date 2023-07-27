@@ -172,7 +172,7 @@ a {
 
 .location {
     width: 100%;
-    height: 580px;
+    height: 550px;
 }
 
 .location h1 {
@@ -357,6 +357,14 @@ button:hover {
         padding-top: 2.5%;
     }
 
+    .location {
+        height: 1050px;
+    }
+
+    .location h1 {
+        padding-top: 8%;
+    }
+
     .location img {
         width: 100%;
         height: 500px;
@@ -383,10 +391,10 @@ button:hover {
         height: 300px;
     }
 
-    .location {
-        width: 100%;
-        height: 500px;
+    .reviews {
+        padding-top: 8%;
     }
+
 }
 
 @media screen and (max-width: 500px) {
@@ -401,6 +409,10 @@ button:hover {
 
     .castle-cafe img {
         height: 250px;
+    }
+
+    .location h1 {
+        padding-top: 10%;
     }
 
     .location img {
@@ -441,7 +453,7 @@ button:hover {
     }
 
     .contact-allignment {
-        margin-top: 1%;
+        padding-top: 5%;
     }
 
     .gallery-allignment h1 {
@@ -452,5 +464,9 @@ button:hover {
 @media screen and (max-width: 400px) {
     #nav-list li {
         padding-right: 10px;
+    }
+
+    .reviews {
+        padding-top: 10%;
     }
 }
