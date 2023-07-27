@@ -387,6 +387,12 @@ button:hover {
 }
 
 @media screen and (max-width: 500px) {
+    #nav-list li {
+        font-size: 15px;
+        padding-right: 15px;
+        padding-top: 10px;
+    }
+
     #hero {
         background-image: url(../images/bccourtyard.jpg);
     }
