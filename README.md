@@ -4,12 +4,11 @@ In this section, you will include one or two paragraphs providing an overview of
 
 This page is based on my local Castle in Co. Cork Ireland.
 I have gathered information and put together a brief history of the castle and what it is being used for now.
+![Screenshot](<Screenshot(30).png>)
 
-## Features
+### Features
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
-### Existing Features
+![Screenshot](<Screenshot(31).png>)
 
 - **Fixed Navigation Bar**
 
@@ -23,31 +22,39 @@ In this section, you should go over the different parts of your project, and des
 
 - **A Brief History**
 
-  - The history page will give the user all the basic history of the castl.
+  - The history page will give the user all the basic history of the castle.
+    ![Screenshot](<Screenshot(32).png>)
 
 - **Blackrock Castle Observatory**
 
   - This section is all about the Observatory.
   - This includes the 10th year anniversary video and a link to the official Blackrock Castle Obsevatory website.
+    ![Screenshot](<Screenshot(33).png>)
 
-- **Blackrock Castle Observatory**
+- **Blackrock Castle Cafe**
 
   - This section is for the Castle Cafe.
   - In here we have a link to the Blackrock Castle Cafe website and a stinning picture of the front of the cafe.
+    ![Screenshot](<Screenshot(38).png>)
 
 - **Blackrock Castle Location**
 
   - This section is for the location of the Castle.
   - In this section we have a lovely picture off all the Cultural sites around the City and an embeded google maps location.
+    ![Screenshot](<Screenshot(34).png>)
 
 - **Trip Advisor Reviews**
+
   - The reviews section has reviews with 3 star or more from trip advisor.
   - The is valuable to anybody who is thinking of visiting the castle.
   - This widget was made on elfsight.com.
+    ![Screenshot](<Screenshot(35).png>)
+
 - **Contacts**
 
   - The contacts section includes a Contact Form and links to the my email and LinkedIn profile.
   - I used formspree as the backend for this.
+    ![Screenshot](<Screenshot(36).png>)
 
 - **Gallery**
   - The gallery will provide the user with supporting images to see what the the castle look like foom many different angles.
@@ -57,7 +64,9 @@ In this section, you should go over the different parts of your project, and des
 - Flexbox: I spent most of my time trying to get the responsiveness of my page right. I think with a bit more knowledge of flexbox this could have been easier.
 - Hamburger Menu: Again using Overflow and Float made keeping the Nav Bar clean a problem. A hamburger menu would have gotten rid of this for smaller screens.
 
-## Testing NOT DONE YET
+## Testing
+
+    ![Screenshot](<Screenshot(37).png>)
 
 - I had a big problem withe the media queries. I had most of the pages widths done in PX instead of %. When I corrected that I restarted the media queries. I got most sizes done well but I could easily put another day into getting every size perfect.
 - Made a silly mistake and forgot to link the index.css to the gallery.
@@ -66,14 +75,20 @@ In this section, you should go over the different parts of your project, and des
 - I had Duplicate ID's for nav-list and href. (25 errors returned when passing through the official W3C validator. There were all for Duplicate ID's)
 - I need to remove a value of (relative) on line 82.
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+- Tested the responsiveness of my site on [Am I Responsive?] (<https://ui.dev/amiresponsive?url=https://josephoconnell.github.io/Blackrock-Castle/>)
+-
+-
 
 ### Validator Testing Working on fixing the issues
 
 - HTML
+
   - 0 errors returned when passing through the official W3C validator[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F)
+    ![Screenshot](<Screenshot(28).png>)
+
 - CSS
 - 0 errors was found when passing through the official W3C validator for CSS.[(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  ![Screenshot](<Screenshot(29).png>)
 
 ### Unfixed Bugs
 
