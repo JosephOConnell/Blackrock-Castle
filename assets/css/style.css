@@ -483,6 +483,13 @@ footer h5 {
         padding-right: 10px;
     }
 
+    #hero-text {
+        font-size: 10px;
+        letter-spacing: 2px;
+        width: 200px;
+        height: 70px;
+    }
+
     .castle-cafe {
         height: 615px;
     }
