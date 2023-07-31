@@ -4,11 +4,9 @@ In this section, you will include one or two paragraphs providing an overview of
 
 This page is based on my local Castle in Co. Cork Ireland.
 I have gathered information and put together a brief history of the castle and what it is being used for now.
-![Lighthouse Results](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(30).png>)
+![Lighthouse Results](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/index-lighthouse.png)
 
 ### Features
-
-![Nav Bar and Hero](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(31).png>)
 
 - **Fixed Navigation Bar**
 
@@ -20,50 +18,47 @@ I have gathered information and put together a brief history of the castle and w
   - The Hero includes a photograph with text overlay.
   - I took the idea for the overlay from the love running project as it adds that little bit extra.
 
+![Nav Bar and Hero](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/nav-and-hero.png)
+
 - **A Brief History**
 
   - The history page will give the user all the basic history of the castle.
-    ![A Biref History](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(32).png>)
+    ![A Brief History](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/a-brief-history.png)
 
 - **Blackrock Castle Observatory**
 
   - This section is all about the Observatory.
   - This includes the 10th year anniversary video and a link to the official Blackrock Castle Obsevatory website.
-    ![Blackrock Castle Observatory](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(33).png>)
+    ![Blackrock Castle Observatory](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/observatory.png)
 
 - **Blackrock Castle Cafe**
 
   - This section is for the Castle Cafe.
   - In here we have a link to the Blackrock Castle Cafe website and a stinning picture of the front of the cafe.
-    ![Blackrock Castle Cafe](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(38).png>)
+    ![Blackrock Castle Cafe](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/castle-cafe.png)
 
 - **Blackrock Castle Location**
 
   - This section is for the location of the Castle.
   - In this section we have a lovely picture off all the Cultural sites around the City and an embeded google maps location.
-    ![Blackrock Castle Location](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(34).png>)
+    ![Blackrock Castle Location](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/location.png)
 
 - **Trip Advisor Reviews**
 
   - The reviews section has reviews with 3 star or more from trip advisor.
   - The is valuable to anybody who is thinking of visiting the castle.
   - This widget was made on elfsight.com.
-    ![Trip Advisor Reviews](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(35).png>)
+    ![Trip Advisor Reviews](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/reviews.png)
 
 - **Contacts**
 
   - The contacts section includes a Contact Form and links to the my email and LinkedIn profile.
   - I used formspree as the backend for this.
 
-    ![Contacts](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(36).png>)
+    ![Contacts](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/contact-form.png)
 
 - **Gallery**
   - The gallery will provide the user with supporting images to see what the the castle look like foom many different angles.
-
-### Features I would like to Implement
-
-- Flexbox: I spent most of my time trying to get the responsiveness of my page right. I think with a bit more knowledge of flexbox this could have been easier.
-- Hamburger Menu: Again using Overflow and Float made keeping the Nav Bar clean a problem. A hamburger menu would have gotten rid of this for smaller screens.
 
 ## Testing
 
@@ -75,18 +70,18 @@ I have gathered information and put together a brief history of the castle and w
 - I need to remove a value of (relative) on line 82.
 
 - Tested the responsiveness of my site on [Am I Responsive?] (<https://ui.dev/amiresponsive?url=https://josephoconnell.github.io/Blackrock-Castle/>)
-  ![Am I Responsive](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(37).png>)
+  ![Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/am-i-responsive-index.png)
 
 ### Validator Testing Working on fixing the issues
 
 - HTML
 
   - 0 errors returned when passing through the official W3C validator[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F)
-    ![HTML Vidator](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(28).png>)
+    ![HTML Vidator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/html-validation-check.png)
 
 - CSS
 - 0 errors was found when passing through the official W3C validator for CSS.[(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-  ![CSS Validator](<https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/Screenshot%20(29).png>)
+  ![CSS Validator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/css-validation-check.png)
 
 ### Unfixed Bugs
 
