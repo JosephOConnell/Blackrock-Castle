@@ -76,7 +76,7 @@ a {
 #hero {
     width: 100%;
     height: 720px;
-    background-image: url(../images/blackrock-castle.jpg);
+    background-image: url(../images/rainbow-over-castle.webp);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -368,10 +368,6 @@ footer h5 {
         padding-right: 20px;
     }
 
-    #hero {
-        background-image: url(../images/BC2.jpg);
-    }
-
     .observatory iframe {
         width: 80%;
         height: 400px;
@@ -427,10 +423,6 @@ footer h5 {
     #nav-list li {
         font-size: 15px;
         padding-right: 15px;
-    }
-
-    #hero {
-        background-image: url(../images/bccourtyard.jpg);
     }
 
     .castle-cafe {
