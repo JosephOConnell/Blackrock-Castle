@@ -2,10 +2,10 @@
 
 ![Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/am-i-responsive-index.png)
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience.
-
 This page is based on my local Castle in Co. Cork Ireland.
-I have gathered information and put together a brief history of the castle and what it is being used for now.
+I have gathered information and put together a brief history of the castle, what the castle is being used for now and the castle cafe the resides in the courtyard.
+I have sourced a video, images and reviews to show what to expect from the castle.
+
 ![Lighthouse Results](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/index-lighthouse.png)
 
 ### Features
@@ -13,11 +13,11 @@ I have gathered information and put together a brief history of the castle and w
 - **Fixed Navigation Bar**
 
   - Featured on both pages, the full responsive navigation bar includes links to Home, Location, Reviews, Contact and Gallery and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the "back" button.
 
 - **The hero page**
 
-  - The Hero includes a photograph with text overlay.
+  - The Hero includes a hero image with text overlay.
   - I took the idea for the overlay from the love running project as it adds that little bit extra.
 
 ![Nav Bar and Hero](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/nav-and-hero.png)
@@ -64,17 +64,25 @@ I have gathered information and put together a brief history of the castle and w
 
 ## Testing
 
-- I had a big problem withe the media queries. I had most of the pages widths done in PX instead of %. When I corrected that I restarted the media queries. I got most sizes done well but I could easily put another day into getting every size perfect.
-- Made a silly mistake and forgot to link the index.css to the gallery.
-- Forgot to add font size to nav-title
-- Left a space in the mailto which through an error in W3 Validation.
-- I had Duplicate ID's for nav-list and href. (25 errors returned when passing through the official W3C validator. There were all for Duplicate ID's)
-- I need to remove a value of (relative) on line 82.
+| **TEST**                            | **ACTION**                                       | **EXPECTATION**                                              | **RESULT**        |
+| ----------------------------------- | ------------------------------------------------ | ------------------------------------------------------------ | ----------------- |
+| Home page & gallery                 | Size from 320px to 2560px using Chrome Dev Tools | Elements look good 320px to 2560px                           | Works as expected |
+| Nav bar - home page & gallery       | Click nav buttons                                | That each nav element takes me to the correct page site page | Works as expected |
+| Nav bar Title - home page & gallery | Nav Bar resize                                   | Nav Title is gone at 700px                                   | Works as expected |
+| Nav bar Title - home page & gallery | Nav Bar resize                                   | Nav list resizes to fit screen at 500px                      | Works as expected |
+| Hero Text - home page               | Hero Text resize                                 | Hero Text resizes 400px                                      | Works as expected |
+| href - home page & gallery          | Click href                                       | That each href takes me a new page.                          | Works as expected |
+| Observatory iframe                  | autoplay                                         | Video does not autoplay                                      | Works as expected |
+| Castle Cafe image and text          | Positioning change                               | That the postioning changes at 1200px                        | Works as expected |
+| Location image and iframe           | Positioning change                               | That the postioning changes at 950px                         | Works as expected |
+| Contact form                        | Click send button without data in form fields    | Cannot submit form                                           | Works as expected |
+| Contact form                        | Form Succesfully Sent confirmation               | Form gives confirmation                                      | Works as expected |
+| Header & footer                     | fixed postioning                                 | header and footer stay in fixed position                     | Works as expected |
 
 - Tested the responsiveness of my site on [Am I Responsive?] (<https://ui.dev/amiresponsive?url=https://josephoconnell.github.io/Blackrock-Castle/>)
   ![Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/am-i-responsive-index.png)
 
-### Validator Testing Working on fixing the issues
+### Validator Testing
 
 - HTML
 
@@ -100,10 +108,10 @@ The live link can be found here - <https://josephoconnell.github.io/Blackrock-Ca
 
 ### Content and Media Credits
 
-- The text for the Home page was taken from many different websites and reworded to suit my page [Wikipedia] [https://www.bco.ie/] [https://www.castlecafe.ie/] [https://castrumtocastle.com/republic-of-ireland-castles/county-cork-cork-blackrock-castle/] [https://irishhistory.com/architecture-and-monuments/castles/history-of-blackrock-castle-co-cork/]
-- For the video I got permition of the videos owner to use on the page [BCO] <https://www.youtube.com/watch?v=97oZNFzkzcM>
+- The text for the Home page was taken from many different websites and reworded to suit my page <https://en.wikipedia.org/wiki/Blackrock_Castle>, <https://www.bco.ie/>, <https://www.castlecafe.ie/>, <https://castrumtocastle.com/republic-of-ireland-castles/county-cork-cork-blackrock-castle/> and <https://irishhistory.com/architecture-and-monuments/castles/history-of-blackrock-castle-co-cork/>.
+- For the video I got permition from the owner of the video to use on the page [BCO] <https://www.youtube.com/watch?v=97oZNFzkzcM>
 - For my Nav Bar I took help from the Love Running Code and made it my own. <https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode>
-- For the widet I used elfsight. I used the free version and it comes with a add and watermark [elfsight]<https://elfsight.com/>
+- For the widget I used elfsight. I used the free version and it comes with a add and watermark [elfsight]<https://elfsight.com/>
 - Contact Form: I watched a youtube video on forms and used some of what I learned from the Love Running also. [Bro-Code](https://www.youtube.com/watch?v=HGTJBPNC-Gw) and used <https://formspree.io/> for the backend.
 
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
