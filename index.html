@@ -249,11 +249,16 @@
             <div id="CONTACT">
                 <h1>CONTACT FORM</h1>
                 <form action="https://formspree.io/f/xdovrdog" method="POST">
-                    <input type="text" name="First-Name" placeholder="First Name" autocomplete="on" required>
-                    <input type="text" name="Last-Name" placeholder="Last Name" autocomplete="on" required>
-                    <input type="email" name="email" placeholder="Email Address" autocomplete="on" required>
-                    <textarea rows="5" cols="46" name="message" placeholder="Enter Text" autocomplete="off"
-                        required></textarea>
+                    <label for="f-name">First Name</label>
+                    <input id="f-name" type="text" name="First-Name" placeholder="First Name" autocomplete="on"
+                        required>
+                    <label for="l-name">Last Name</label>
+                    <input id="l-name" type="text" name="Last-Name" placeholder="Last Name" autocomplete="on" required>
+                    <label for="email">EMail Address</label>
+                    <input id="email" type="email" name="email" placeholder="Email Address" autocomplete="on" required>
+                    <label for="query">Query or Feedback</label>
+                    <textarea id="query" rows="5" cols="46" name="Your Query or Feedback" placeholder="Enter Text"
+                        autocomplete="off" required></textarea>
                     <button type="submit">Send Message</button>
                 </form>
             </div>
