@@ -76,7 +76,7 @@ a {
 #hero {
     width: 100%;
     height: 720px;
-    background-image: url(../images/rainbow-over-castle.webp);
+    background-image: url(../images/courtyard-castle-front.jpg);
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
@@ -425,6 +425,10 @@ footer h5 {
         padding-right: 15px;
     }
 
+    #hero {
+        background-image: url(../images/rainbow-over-castle.webp);
+    }
+
     .castle-cafe {
         height: 550px;
     }
@@ -492,7 +496,7 @@ footer h5 {
     #hero-text {
         font-size: 10px;
         letter-spacing: 2px;
-        width: 200px;
+        width: 235px;
         height: 70px;
     }
 
