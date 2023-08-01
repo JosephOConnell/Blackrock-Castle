@@ -276,6 +276,11 @@ button:hover {
     opacity: 80%;
 }
 
+label {
+    font-size: 20px;
+    letter-spacing: 6px;
+}
+
 /* index & gallery: contact links CSS*/
 .contacts {
     width: 45%;
@@ -322,11 +327,12 @@ footer h5 {
 }
 
 .gallery-allignment img {
-    width: 100%;
+    width: 50%;
+    margin-left: 25%;
 }
 
 #images {
-    column-count: 2;
+    column-count: 1;
     row-gap: 0;
     column-gap: 0;
 }
@@ -353,6 +359,11 @@ footer h5 {
     .castle-cafe img {
         width: 100%;
         height: 400px;
+    }
+
+    label {
+        font-size: 16px;
+        letter-spacing: 4px;
     }
 }
 
