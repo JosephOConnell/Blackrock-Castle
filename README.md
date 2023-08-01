@@ -112,7 +112,7 @@ The live link can be found here - [Blackrock Castle](https://josephoconnell.gith
 
 ### Content and Media Credits
 
-- The text for the Home page was taken from many different websites and reworded to suit my page [Wikipedia)[https://en.wikipedia.org/wiki/Blackrock_Castle], [BCO](https://www.bco.ie/), [Castle Cafe](https://www.castlecafe.ie/), [castrumtocastle](https://castrumtocastle.com/republic-of-ireland-castles/county-cork-cork-blackrock-castle/) and [Irish History](https://irishhistory.com/architecture-and-monuments/castles/history-of-blackrock-castle-co-cork/).
+- The text for the Home page was taken from many different websites and reworded to suit my page [Wikipedia](https://en.wikipedia.org/wiki/Blackrock_Castle), [BCO](https://www.bco.ie/), [Castle Cafe](https://www.castlecafe.ie/), [castrumtocastle](https://castrumtocastle.com/republic-of-ireland-castles/county-cork-cork-blackrock-castle/) and [Irish History](https://irishhistory.com/architecture-and-monuments/castles/history-of-blackrock-castle-co-cork/).
 - For the video I got permition from the owner of the video to use on the page [BCO](https://www.youtube.com/watch?v=97oZNFzkzcM)
 - For my Nav Bar I took help from the Love Running Code and made it my own. [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
 - For the widget I used elfsight. I used the free version and it comes with a add and watermark [elfsight](https://elfsight.com/0
