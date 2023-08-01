@@ -81,21 +81,21 @@ I have sourced a video, images and reviews to show what to expect from the castl
 | Contact form                        | Form Succesfully Sent confirmation               | Form gives confirmation                                      | Works as expected |
 | Header & footer                     | fixed postioning                                 | header and footer stay in fixed position                     | Works as expected |
 
-- Tested the responsiveness of my site on [Am I Responsive?] (<https://ui.dev/amiresponsive?url=https://josephoconnell.github.io/Blackrock-Castle/>)
+- Tested the responsiveness of my site on [Am I Responsive?](https://ui.dev/amiresponsive?url=https://josephoconnell.github.io/Blackrock-Castle/)
   ![Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/am-i-responsive-index.png)
 
 ### Validator Testing
 
 - index HTML
-  0 errors returned when passing through the official W3C validator[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F)
+  0 errors returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F)
   ![HTML Vidator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/html-validation-check.png)
 
--gallery HTML
-0 errors returned when passing through the official W3C validator[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2Fgallery.html) ![HTML Vidator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/gallery-html-validation.png)
+- gallery HTML
+  0 errors returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2Fgallery.html) ![HTML Vidator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/gallery-html-validation.png)
 
--style CSS
-0 errors was found when passing through the official W3C validator for CSS.[(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-![CSS Validator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/css-validation-check.png)
+- style CSS
+  0 errors was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  ![CSS Validator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/css-validation-check.png)
 
 ### Unfixed Bugs
 
@@ -108,16 +108,20 @@ As of yet I have not found any bugs.
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - <https://josephoconnell.github.io/Blackrock-Castle/>
+The live link can be found here - [GitHub](https://josephoconnell.github.io/Blackrock-Castle/)
 
 ### Content and Media Credits
 
-- The text for the Home page was taken from many different websites and reworded to suit my page <https://en.wikipedia.org/wiki/Blackrock_Castle>, <https://www.bco.ie/>, <https://www.castlecafe.ie/>, <https://castrumtocastle.com/republic-of-ireland-castles/county-cork-cork-blackrock-castle/> and <https://irishhistory.com/architecture-and-monuments/castles/history-of-blackrock-castle-co-cork/>.
-- For the video I got permition from the owner of the video to use on the page [BCO] <https://www.youtube.com/watch?v=97oZNFzkzcM>
-- For my Nav Bar I took help from the Love Running Code and made it my own. <https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode>
-- For the widget I used elfsight. I used the free version and it comes with a add and watermark [elfsight]<https://elfsight.com/>
-- Contact Form: I watched a youtube video on forms and used some of what I learned from the Love Running also. [Bro-Code](https://www.youtube.com/watch?v=HGTJBPNC-Gw) and used <https://formspree.io/> for the backend.
+- The text for the Home page was taken from many different websites and reworded to suit my page [Wikipedia)[https://en.wikipedia.org/wiki/Blackrock_Castle], [BCO](https://www.bco.ie/), [Castle Cafe)[https://www.castlecafe.ie/], [castrumtocastle](https://castrumtocastle.com/republic-of-ireland-castles/county-cork-cork-blackrock-castle/) and [Irish History](https://irishhistory.com/architecture-and-monuments/castles/history-of-blackrock-castle-co-cork/).
+- For the video I got permition from the owner of the video to use on the page [BCO](https://www.youtube.com/watch?v=97oZNFzkzcM)
+- For my Nav Bar I took help from the Love Running Code and made it my own. [Love Running](https://github.com/Code-Institute-Solutions/love-running-2.0-sourcecode)
+- For the widget I used elfsight. I used the free version and it comes with a add and watermark [elfsight](https://elfsight.com/0
+- Contact Form: I watched a youtube video on forms and used some of what I learned from the Love Running also. [Bro-Code](https://www.youtube.com/watch?v=HGTJBPNC-Gw) and used [Formspree](https://formspree.io/) for the backend.
 
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
 - The fonts were taken from [Google Fonts](https://fonts.google.com/)
-- All images were taken of Google images <https://www.google.com/search?q=blackrock+castle&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwj21N3I5qqAAxWjU0EAHWVQAI0Q0pQJegQIDRAB&biw=1920&bih=929&dpr=1>
+- All images were taken from [Google images] (https://www.google.com/search?q=blackrock+castle&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwj21N3I5qqAAxWjU0EAHWVQAI0Q0pQJegQIDRAB&biw=1920&bih=929&dpr=1)
+
+I recommend using WAVE as well to check your pages
+"expand more on deployment steps (cloning repo, launching in IDE, git add/commit/push to github)"
+all pages must pass through lighthouse
