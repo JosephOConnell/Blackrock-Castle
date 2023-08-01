@@ -94,7 +94,7 @@ I have sourced a video, images and reviews to show what to expect from the castl
   0 errors returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2Fgallery.html) ![HTML Vidator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/gallery-html-validation.png)
 
 - style CSS
-  0 errors was found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+  0 errors was found when passing through the official [Jigsaw CSS validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
   ![CSS Validator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/css-validation-check.png)
 
 ### Unfixed Bugs
@@ -120,7 +120,7 @@ The live link can be found here - [Blackrock Castle](https://josephoconnell.gith
 
 - The icons were taken from [Font Awesome](https://fontawesome.com/)
 - The fonts were taken from [Google Fonts](https://fonts.google.com/)
-- All images were taken from [Google images] (https://www.google.com/search?q=blackrock+castle&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwj21N3I5qqAAxWjU0EAHWVQAI0Q0pQJegQIDRAB&biw=1920&bih=929&dpr=1)
+- All images were taken from [Google images](https://www.google.com/search?q=blackrock+castle&tbm=isch&source=lnms&sa=X&sqi=2&ved=2ahUKEwj21N3I5qqAAxWjU0EAHWVQAI0Q0pQJegQIDRAB&biw=1920&bih=929&dpr=1)
 
 I recommend using WAVE as well to check your pages
 "expand more on deployment steps (cloning repo, launching in IDE, git add/commit/push to github)"
