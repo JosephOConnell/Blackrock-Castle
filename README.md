@@ -108,7 +108,7 @@ As of yet I have not found any bugs.
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
-The live link can be found here - [GitHub](https://josephoconnell.github.io/Blackrock-Castle/)
+The live link can be found here - [Blackrock Castle](https://josephoconnell.github.io/Blackrock-Castle/)
 
 ### Content and Media Credits
 
