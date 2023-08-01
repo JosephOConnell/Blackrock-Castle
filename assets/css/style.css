@@ -348,6 +348,13 @@ footer h5 {
 }
 
 /* media queries */
+@media screen and (min-width: 2090px) {
+    label {
+        font-size: 25px;
+        letter-spacing: 10px;
+    }
+}
+
 @media screen and (max-width: 1200px) {
     .castle-cafe {
         width: 100%;
