@@ -60,7 +60,9 @@ I have sourced a video, images and reviews to show what to expect from the castl
     ![Contacts](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/contact-form.png)
 
 - **Gallery**
-  - The gallery will provide the user with supporting images to see what the the castle look like foom many different angles.
+  - The gallery will provide the user with supporting images to see what the the castle looks like foom many different angles.
+
+![Gallery](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/gallery.png)
 
 ## Testing
 
@@ -84,14 +86,16 @@ I have sourced a video, images and reviews to show what to expect from the castl
 
 ### Validator Testing
 
-- HTML
+- index HTML
+  0 errors returned when passing through the official W3C validator[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F)
+  ![HTML Vidator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/html-validation-check.png)
 
-  - 0 errors returned when passing through the official W3C validator[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F)
-    ![HTML Vidator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/html-validation-check.png)
+-gallery HTML
+0 errors returned when passing through the official W3C validator[W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2Fgallery.html) ![HTML Vidator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/gallery-html-validation.png)
 
-- CSS
-- 0 errors was found when passing through the official W3C validator for CSS.[(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
-  ![CSS Validator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/css-validation-check.png)
+-style CSS
+0 errors was found when passing through the official W3C validator for CSS.[(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fjosephoconnell.github.io%2FBlackrock-Castle%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+![CSS Validator](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/css-validation-check.png)
 
 ### Unfixed Bugs
 
