@@ -1,12 +1,13 @@
 # BLACKROCK CASTLE
 
-![Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/am-i-responsive-index.png)
+![Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/am-i-responsive.png)
 
 This page is based on my local Castle in Co. Cork Ireland.
 I have gathered information and put together a brief history of the castle, what the castle is being used for now and the castle cafe the resides in the courtyard.
 I have sourced a video, images and reviews to show what to expect from the castle.
 
-![Lighthouse Results](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/index-lighthouse.png)
+![Index Lighthouse Results](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/lighthouse.png)
+![Gallery Lighthouse Results](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/lighthouse-gallery.png)
 
 ### Features
 
@@ -20,7 +21,7 @@ I have sourced a video, images and reviews to show what to expect from the castl
   - The Hero includes a hero image with text overlay.
   - I took the idea for the overlay from the love running project as it adds that little bit extra.
 
-![Nav Bar and Hero](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/nav-and-hero.png)
+![Nav Bar and Hero](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/nav-hero.png)
 
 - **A Brief History**
 
@@ -43,7 +44,7 @@ I have sourced a video, images and reviews to show what to expect from the castl
 
   - This section is for the location of the Castle.
   - In this section we have a lovely picture off all the Cultural sites around the City and an embeded google maps location.
-    ![Blackrock Castle Location](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/location.png)
+    ![Blackrock Castle Location](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/locations.png)
 
 - **Trip Advisor Reviews**
 
@@ -57,7 +58,7 @@ I have sourced a video, images and reviews to show what to expect from the castl
   - The contacts section includes a Contact Form and links to the my email and LinkedIn profile.
   - I used formspree as the backend for this.
 
-    ![Contacts](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/contact-form.png)
+    ![Contacts](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/contacts.png)
 
 - **Gallery**
   - The gallery will provide the user with supporting images to see what the the castle looks like foom many different angles.
