@@ -83,7 +83,8 @@ I have sourced a video, images and reviews to show what to expect from the castl
 | Header & footer                     | fixed postioning                                 | header and footer stay in fixed position                     | Works as expected |
 
 - Tested the responsiveness of my site on [Am I Responsive?](https://ui.dev/amiresponsive?url=https://josephoconnell.github.io/Blackrock-Castle/)
-  ![Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/am-i-responsive-index.png)
+  ![Index Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/am-i-responsive.png)
+  ![Gallery Am I Responsive](https://github.com/JosephOConnell/Blackrock-Castle/blob/main/assets/readmeImages/gallery-am-i-responsive.png)
 
 ### Validator Testing
 
