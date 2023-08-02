@@ -534,3 +534,17 @@ footer h5 {
         padding-top: 10%;
     }
 }
+
+@media screen and (max-width: 250px) {
+    #nav-list li {
+        font-size: 10px;
+        padding-right: 5px;
+    }
+
+    #hero-text {
+        font-size: 0px;
+        letter-spacing: 0px;
+        width: 0px;
+        height: 0px;
+    }
+}
