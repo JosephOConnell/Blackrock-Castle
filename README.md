@@ -103,12 +103,15 @@ I have sourced a video, images and reviews to show what to expect from the castl
 
 As of yet I have not found any bugs.
 
-## Deployment
+### Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
-  - In the GitHub repository, navigate to the Settings tab
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+  - Create a GitHub repository, Then clone the Code Institute Template into it.
+  - In the Code Institute page select "Go to IDE" (CodeAnywhere) and creat a new workspace.
+  - Then copy the repository into the workspace.
+  - Now go to to the repository page and navigate to the Settings tab.
+  - From the source section drop-down menu, I selected the Master Branch.
+  - Once the master branch was selected, the page automatically refreshed with a detailed ribbon display to indicate the successful deployment.
 
 The live link can be found here - [Blackrock Castle](https://josephoconnell.github.io/Blackrock-Castle/)
 
